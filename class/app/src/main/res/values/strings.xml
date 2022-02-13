@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lalafo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Login_form">Авторизация</string>
+    <string name="Login">Логин</string>
+    <string name="Login1">Введите Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Password1">Введите Пароль</string>
+    <string name="saveBtn">Сохранить</string>
+</resources>
